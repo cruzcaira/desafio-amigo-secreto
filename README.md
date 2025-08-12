@@ -1,4 +1,4 @@
-# desafio-amigo-secreto
+# Amigo Secreto
 
 # Descripción
 Este es un proyecto de una aplicación web para sortear un Amigo Secreto entre un listado de participantes. 
@@ -12,7 +12,7 @@ Esta aplicación te permitirá:
 # Requisitos
 - Es necesario disponer de un navegador web moderno que soporte JavaScript. 
 
-# Código Principal 
+# Código Principal en JavaScript
 
 ```javascript
 // Array para almanecar los nombres de los participantes
