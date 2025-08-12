@@ -10,7 +10,7 @@ Esta aplicación te permitirá:
 - Sortear un amigo secreto de la lista
 
 # Instalación
-- Clona el repositorio: Abre tu terminal y ejecuta el siguiente comando: ```git clone https://github.com/cruzcaira/desafio-amigo-secreto.git`` 
+- Clona el repositorio: Abre tu terminal y ejecuta el siguiente comando: `` git clone https://github.com/cruzcaira/desafio-amigo-secreto.git `` 
 
 - Abre el archivo `index.html` directamente en tu navegador web.
 
