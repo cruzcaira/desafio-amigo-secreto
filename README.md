@@ -9,11 +9,15 @@ Esta aplicación te permitirá:
 - Visualizar en una lista a quienes participaran
 - Sortear un amigo secreto de la lista
 
-# Instalación y Uso
-
-- Clona el repositorio: Abre tu terminal y ejecuta el siguiente comando: ```git clone https://github.com/cruzcaira/desafio-amigo-secreto.git```
+# Instalación
+- Clona el repositorio: Abre tu terminal y ejecuta el siguiente comando: ```git clone https://github.com/cruzcaira/desafio-amigo-secreto.git`` 
 
 - Abre el archivo `index.html` directamente en tu navegador web.
+
+# Uso
+- Deberás ingresar los nombres de los participantes en el campo de entrada visible y clickear en el botón ```Añadir```
+- Una vez que hayas ingresado al menos dos participantes, presiona en el botón ```Sortear Amigo``` y un Amigo Secreto debería serte asignado 
+
 
 # Requisitos
 - Es necesario disponer de un navegador web moderno que soporte JavaScript. 
