@@ -11,10 +11,8 @@ Esta aplicación te permitirá:
 
 # Instalación y Uso
 
-- Clona el repositorio: Abre tu terminal y ejecuta el siguiente comando:
+- Clona el repositorio: Abre tu terminal y ejecuta el siguiente comando: ```git clone https://github.com/cruzcaira/desafio-amigo-secreto.git```
 
-  ```git clone https://github.com/cruzcaira/desafio-amigo-secreto.git  ```
-  
 - Abre el archivo `index.html` directamente en tu navegador web.
 
 # Requisitos
