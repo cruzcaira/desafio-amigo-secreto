@@ -61,6 +61,7 @@ function sortearAmigo() {
         return true;
     }
 }
+```
 
 # Licencia
 La documentación de este proyecto esta bajo la licencia [MIT](https://github.com/cruzcaira/desafio-amigo-secreto/blob/main/LICENSE).
