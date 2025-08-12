@@ -1,6 +1,4 @@
 # Amigo Secreto
-
-# Descripción
 Este es un proyecto de una aplicación web para sortear un Amigo Secreto entre un listado de participantes. 
 
 # Características 
