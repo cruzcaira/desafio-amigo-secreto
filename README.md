@@ -7,5 +7,5 @@ Este es un proyecto
 # Licencia
 La documentación de este proyecto esta bajo la licencia MIT.
 
-#Autor
+# Autor
 Creador por: [cruzcaira](https://github.com/cruzcaira)
