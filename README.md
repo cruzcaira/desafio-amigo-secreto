@@ -9,6 +9,13 @@ Esta aplicación te permitirá:
 - Visualizar en una lista a quienes participaran
 - Sortear un amigo secreto de la lista
 
+# Instalación y Uso
+
+1.
+2.
+3.
+
+
 # Requisitos
 - Es necesario disponer de un navegador web moderno que soporte JavaScript. 
 
