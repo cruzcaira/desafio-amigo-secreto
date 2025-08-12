@@ -1,4 +1,8 @@
 # desafio-amigo-secreto
 Aplicación para el Sorteo del Amigo Secreto. 
 
-<em>  Challenge Amigo Secreto </em>
+# Descripción
+Este es un proyecto 
+
+# Licencia
+La documentación de este proyecto esta bajo la licencia MIT.
